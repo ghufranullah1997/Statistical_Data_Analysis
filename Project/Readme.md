@@ -67,8 +67,3 @@ Data: [Statistics Finland - Teaching Use Data of the Time Use Survey](https://st
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-> “Statistics are like a lamppost to a drunk: used more for support than illumination – but used well, they light the way.”  
-> — Anonymous
-
-
