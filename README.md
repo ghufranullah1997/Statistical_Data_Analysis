@@ -34,8 +34,3 @@
   <li>Total workload: ~135 hours including lectures, hands-on exercises, and project work</li>
 </ul>
 
-<h3>📝 Assessment</h3>
-<ul>
-  <li>Active participation in exercises</li>
-  <li>Quality and depth of the final project</li>
-</ul>
